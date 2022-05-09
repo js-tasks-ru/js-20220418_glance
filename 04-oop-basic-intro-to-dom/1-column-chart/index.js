@@ -90,4 +90,5 @@ export default class ColumnChart {
   remove() {
     this.element.remove();
   }
+
 }
